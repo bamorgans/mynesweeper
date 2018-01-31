@@ -1,7 +1,7 @@
 {
-    "name": "mine-sweeper",
+    "name": "React-es6-webpack-sample",
     "version": "1.0.0",
-    "description": "classic MineSweeper game",
+    "description": "React-es6-webpack-sample",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/bamorgans/mine-sweeper.git"
+        "url": "https://github.com/bamorgans/react-es6-webpack-sample.git"
     },
     "keywords": [
         "minesweeper",
@@ -22,9 +22,9 @@
     "author": "Bob Morganstern",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/bamorgans/mine-sweeper/issues"
+        "url": "https://github.com/bamorgans/react-es6-webpack-sample/issues"
     },
-    "homepage": "https://github.com/bamorgans/mine-sweeper#readme",
+    "homepage": "https://github.com/bamorgans/react-es6-webpack-sampl#readme",
     "dependencies": {
         "history": "^4.7.2",
         "lodash": "^4.17.4",
