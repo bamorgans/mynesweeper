@@ -2,7 +2,7 @@
  * Created by bamorgans on 1/29/2018.
  */
 import React from 'react';
-import Main from './main.jsx';
+import Main from './components/main.jsx';
 
 
 export default class App extends React.Component {
